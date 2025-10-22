@@ -81,4 +81,11 @@
   font-size: 1.2em;
   margin-bottom: 20px;
 }
+footer{
+    background-color: #FED4CC;
+    font-family: cursive;
+    color: black;
+    height: 20px;
+    margin-bottom: auto;
+}
 
