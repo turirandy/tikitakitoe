@@ -13,7 +13,7 @@
 ## Technologies used
 - I used HTML 
 - I uesd CSS to decorate the website
-- Cool colours from canva
+- Cool colours from the canva color wheel https://www.canva.com/colors/color-wheel/
 - I used Js to make a user experience interactive and enjoyable.
 
 
