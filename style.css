@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Itim', cursive;
+
+}
+.background{
+    background-color: #ccf6fe;
+    height: 100%;
+    padding-top: 1px;
+}
+.title{
+    color: #FED4CC;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
+.display{
+    color: #004D87;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}    
+.hide{
+    display: none;
+
+}
+.container{
+    margin: 0 auto;
+    max-width: 300px;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows:  33% 33% 33%;
+    display: grid;
+}
+.tile{
+    display: flex;
+    min-width: 100px;
+    min-height: 100px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #CCDDFE;
+    font-size: 50px;
+    background-color: black;
+}
+.playerX{
+    color: aquamarine;
+
+}
+.playerO{
+    color: blueviolet;
+}
+#reset{
+    background-color: bisque;
+    color: white;
+    padding: 8px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 1em;
+}
+.controls{
+    display: flex;
+    margin-top: 1em;
+    align-items: center;
+    flex-direction: row;
+    justify-content: right;
+    width: 1000px;
+}
+.announcer {
+    font-size: 24px;
+    color: #FED4CC;
+    margin-top: 1em;
+    padding: 10px;
+    background-color: #222;
+    border-radius: 5px;
+}
+#scoreboard {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
