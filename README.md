@@ -17,7 +17,8 @@
 - I used Js to make a user experience interactive and enjoyable.
 
 
-# Beat your friend Now 
+# Beat your friend Now click this => https://tikitakitoe-mu.vercel.app/
+<img width="1920" height="1008" alt="Screenshot 2025-10-22 184906" src="https://github.com/user-attachments/assets/aae3dbb0-aa7f-48ad-81f3-6ebef82898f8" />
 
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme) 
